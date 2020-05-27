@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/05/26/test/</loc>
+    
+    <lastmod>2020-05-27T05:10:06.251Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-05-27T04:14:20.220Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/run-test/index.html</loc>
+    
+    <lastmod>2020-05-27T04:13:37.267Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2020-05-27T03:28:45.745Z</lastmod>
@@ -16,23 +37,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/run-test/index.html</loc>
-    
-    <lastmod>2020-05-27T03:26:49.207Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2020/05/27/run-shell-test/</loc>
     
     <lastmod>2020-05-27T03:26:31.022Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/05/26/test/</loc>
-    
-    <lastmod>2020-05-26T10:38:19.947Z</lastmod>
     
   </url>
   
@@ -45,13 +52,6 @@
   
   <url>
     <loc>http://yoursite.com/links/index.html</loc>
-    
-    <lastmod>2020-05-26T06:33:05.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2020-05-26T06:33:05.382Z</lastmod>
     
